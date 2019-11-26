@@ -33,9 +33,147 @@ capitulo_i:
     9:
       temas:
         - Proscripción del terrorismo
-
 capitulo_ii:
+  titulo: Nacionalidad y Ciudadanía
+  articulos:
+    10:
+      temas:
+        - Adquisición de nacionalidad chilena
+    11:
+      temas:
+        - Pérdida de nacionalidad chilena
+    12:
+      temas:
+        - Amparo por privación o desconocimiento de la nacionalidad chilena
+    13:
+      temas:
+        - Ciudadanía
+    14:
+      temas:
+        - Derechos políticos para extranjeros
+    15:
+      temas:
+        - Voto personal, igualitario, secreto y voluntario 
+        - Plebiscitos
+    16:
+      temas:
+        - Suspensión del derecho de sufragio
+    17:
+      temas:
+        - Pérdida de la calidad de ciudadano
+    18:
+      temas:
+        - Sistema electoral
 capitulo_iii:
+    19:
+      temas:
+        - Derechos fundamentales consagrados
+      numerales:
+        1: 
+          temas:
+            - Derecho a la vida e integridad física
+            - Protección de la vida del nasciturus
+        2:
+          temas:
+            - Derecho a la igualdad ante la ley
+            - Proscripción de la arbitrariedad
+        3:
+          temas:
+            - Derecho a la igual protección de la ley en el ejercicio de los derechos
+            - Debido proceso
+        4:
+          temas:
+            - Derecho a la vida privada y honra
+        5:
+          temas:
+            - Derecho a la inviolabilidad del hogar y comunicaciones privadas
+        6:
+          temas:
+            - Libertad de conciencia
+            - Exenciones a las iglesias
+        7:
+          temas:
+            - Libertad personal y seguridad individual
+        8:
+          temas:
+            - Derecho a vivir en un medio ambiente libre de contaminación
+        9:
+          temas:
+            - Derecho a la protección a la salud
+        10:
+          temas:
+            - Derecho a la educación
+        11:
+          temas:
+            - Libertad de enseñanza
+        12:
+          temas:
+            - Libertad de emitir opinión e informar sin censura previa
+            - Consejo Nacional de Televisión como órgano constitucionalmente autónomo
+        13:
+          temas:
+            - Derecho de reunión
+        14:
+          temas:
+            - Derecho de petición
+        15:
+          temas:
+            - Derecho de asociación
+        16:
+          temas:
+            - Libertad de trabajo
+            - Derecho a la negociación colectiva
+        17:
+          temas:
+            - Admisión a funciones y empleos públicos
+        18:
+          temas:
+            - Derecho a la seguridad social
+        19:
+          temas:
+            - Derecho a sindicarse
+        20:
+          temas:
+            - Igual repartición de los tributos y cargas públicas
+        21:
+          temas:
+            - Derecho a desarrollar cualquier actividad económica
+            - Principio de subsidiariedad
+        22:
+          temas:
+            - No discriminación arbitraria en el trato en materia económica
+        23:
+          temas:
+            - Libertad para adquirir el dominio
+        24:
+          temas:
+            - Derecho de propiedad
+            - Dominio estatal sobre las minas
+            - Concesiones mineras y dominio sobre las mismas
+            - Propiedad sobre los derechos de aguas
+        25:
+          temas:
+            - Libertad de crear y difundir las artes
+            - Derecho de autor
+        26:
+          temas:
+            - Núcleo esencial de los derechos fundamentales
+    20:
+      temas:
+        - Recurso de protección. Derechos que resguarda
+    21:
+      temas:
+        - Recurso de amparo
+    22:
+      temas:
+        - Deber de honrar a la patria y emblemas nacionales
+        - Servicio militar obligatorio
+    23:
+      temas:
+        - Grupos intermedios
+
+
+
 capitulo_iv:
 capitulo_v:
 capitulo_vi:
